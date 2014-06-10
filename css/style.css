@@ -7,47 +7,47 @@ body {
 #home {
 	background: url("../images/home.jpg");
 	background-attachment: fixed;
-	background-origin: initial;
 	background-clip: initial;
-	background-size: cover;
+	background-origin: initial;
+	background-position: 100% 0;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-size: cover;
 	min-height: 1080px;
+	position: relative;
 }
 
 #about {
 	background: url("../images/about.jpg");
 	background-attachment: fixed;
-	background-origin: initial;
 	background-clip: initial;
-	background-size: cover;
+	background-origin: initial;
+	background-position: 100% 0;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-size: cover;
 	min-height: 1080px;
+	position: relative;
 }
 
 #blog {
 	background: url("../images/blog.jpg");
 	background-attachment: fixed;
-	background-origin: initial;
 	background-clip: initial;
-	background-size: cover;
+	background-origin: initial;
+	background-position: 100% 0;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-size: cover;
 	min-height: 1080px;
+	position: relative;
 }
 
 #contact { 
 	background: url("../images/contact.jpg");
 	background-attachment: fixed;
-	background-origin: initial;
 	background-clip: initial;
-	background-size: cover;
+	background-origin: initial;
+	background-position: 100% 0;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-size: cover;
 	min-height: 1080px;
+	position: relative;
 }
