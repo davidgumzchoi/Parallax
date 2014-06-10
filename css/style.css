@@ -4,6 +4,37 @@ body {
 	padding: 0;
 }
 
+nav {
+	background-color: white;
+	-webkit-box-shadow: 1px 0px 15px #aaa;
+	-moz-box-shadow: 1px 0px 15px #aaa;
+	box-shadow: 1px 0px 15px #aaa;
+	position: fixed;
+	z-index: 10;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	width: 482px;
+}
+
+.container li {
+	display: inline-block;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin: 0;
+	padding: 20px;
+	text-transform: uppercase;
+}
+
+.container a {
+	color: #000;
+	text-decoration: none;
+}
+
 #home {
 	background: url("../images/home.jpg");
 	background-attachment: fixed;
