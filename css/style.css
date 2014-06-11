@@ -1,5 +1,5 @@
 body {
-	font-family: 'Changa One', cursive;
+	font-family: 'Open Sans', cursive;
 	margin: 0;
 	padding: 0;
 }
@@ -10,6 +10,7 @@ nav {
 	-moz-box-shadow: 1px 0px 15px #aaa;
 	box-shadow: 1px 0px 15px #aaa;
 	position: fixed;
+	width: 100%;
 	z-index: 10;
 }
 
@@ -17,7 +18,7 @@ nav {
 	margin: 0 auto;
 	padding: 0;
 	position: relative;
-	width: 482px;
+	text-align: center;
 }
 
 .container li {
@@ -42,9 +43,9 @@ nav {
 	background-clip: initial;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-position: 100% 0;
 	min-height: 1080px;
+	position: relative;
 }
 
 #about {
@@ -54,9 +55,9 @@ nav {
 	background-clip: initial;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-position: 100% 0;
 	min-height: 1080px;
+	position: relative;
 }
 
 #blog {
@@ -66,9 +67,9 @@ nav {
 	background-clip: initial;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-position: 100% 0;
 	min-height: 1080px;
+	position: relative;
 }
 
 #contact { 
@@ -78,7 +79,7 @@ nav {
 	background-clip: initial;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 100% 0; 
-	position: relative;
+	background-position: 100% 0;
 	min-height: 1080px;
+	position: relative;
 }
