@@ -36,6 +36,18 @@ nav {
 	text-decoration: none;
 }
 
+#youtube {
+	padding-bottom: 56.25%; /* 16:9 */
+}
+
+#youtube iframe {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
 #home {
 	background: url("../images/home.jpg");
 	background-attachment: fixed;
